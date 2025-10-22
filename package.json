@@ -1,0 +1,14 @@
+{
+  "name": "string-analyzer-service",
+  "version": "1.0.0",
+  "description": "Stage 1 Backend Wizards Task - String Analyzer Service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "morgan": "^1.10.0"
+  }
+}
